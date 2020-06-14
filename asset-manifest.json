@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-halloween/static/css/main.dd5a2a62.chunk.css",
+    "main.js": "/monsters-halloween/static/js/main.490f5b02.chunk.js",
+    "main.js.map": "/monsters-halloween/static/js/main.490f5b02.chunk.js.map",
+    "runtime-main.js": "/monsters-halloween/static/js/runtime-main.e389fbbc.js",
+    "runtime-main.js.map": "/monsters-halloween/static/js/runtime-main.e389fbbc.js.map",
+    "static/js/2.7bede9e7.chunk.js": "/monsters-halloween/static/js/2.7bede9e7.chunk.js",
+    "static/js/2.7bede9e7.chunk.js.map": "/monsters-halloween/static/js/2.7bede9e7.chunk.js.map",
+    "index.html": "/monsters-halloween/index.html",
+    "precache-manifest.5281857bdf8558befd4b30e96a71c98f.js": "/monsters-halloween/precache-manifest.5281857bdf8558befd4b30e96a71c98f.js",
+    "service-worker.js": "/monsters-halloween/service-worker.js",
+    "static/css/main.dd5a2a62.chunk.css.map": "/monsters-halloween/static/css/main.dd5a2a62.chunk.css.map",
+    "static/js/2.7bede9e7.chunk.js.LICENSE.txt": "/monsters-halloween/static/js/2.7bede9e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e389fbbc.js",
+    "static/js/2.7bede9e7.chunk.js",
+    "static/css/main.dd5a2a62.chunk.css",
+    "static/js/main.490f5b02.chunk.js"
+  ]
+}
